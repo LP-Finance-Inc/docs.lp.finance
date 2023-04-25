@@ -25,4 +25,4 @@ const tokenB = fetchFromJupiter(tifAccountedTokenASize); // fetch exchange rate
 const tifAccountedTokenB = tokenB * epochs; // total token B out amount
 ```
 
-The TWAP order receive amount is a metric to estimate reduction of price impact as the execution period increases.
+The TWAP order receive amount is a metric to estimate reduction of price impact as the execution period increases. However, lack of arbitrage activities, especially for stable pairs (USDCet, USDTet) could result in price impact. It is important to select a conservative execution period for larger size.
