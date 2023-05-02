@@ -1,6 +1,6 @@
 # Programs
 
-### zSOL Issuance Program (lpfinance-program)
+zSOL Issuance Program (lpfinance-program)
 
 {% embed url="https://solana.fm/address/8Hka1oR6uoNLqjpYXXDKpF6NwiYidD6L3ncQdfu11aWw?cluster=mainnet-solanafmbeta" %}
 
@@ -10,7 +10,7 @@
 
 ### TWAMM Program
 
-{% embed url="https://solana.fm/address/TWAMMbZ9CtJPTBMsdHjEqaSUHRFTxvEKNPAMmLohjmh?cluster=mainnet-solanafmbeta" %}
+{% embed url="https://solana.fm/address/TWAPzC9xaeBpgDNF26z5VAcmxBowVz5uqmTx47LkWUy" %}
 
 ### LPFi Staking Program
 
