@@ -2,7 +2,7 @@
 
 TWAMM, short for time-weighted average market maker is a service that allows traders on Solana to efficiently execute large orders.
 
-TWAMM pools large orders together, breaks them down into small pieces, and executes them over a specified time interval. Orders with opposite sides are internally matched using the oracle price, and net outstanding liquidity is settled via the best possible execution route available with Jupiter.
+TWAMM pools large orders together, breaks them down into small pieces, and executes them over a specified time interval. Orders with opposite sides are internally matched using the oracle price, and net outstanding liquidity is settled via the best possible execution route available with [Jupiter](https://jup.ag).
 
 Additionally, market makers (or literally anyone) have the opportunity to settle the outstanding net balance at the oracle price (i.e. perform a swap against TWAMM pools), saving on swap fees for themselves and the protocol.
 

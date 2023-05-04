@@ -1,4 +1,4 @@
-# Order Receive Amount Calculation
+# Order Receive Amount Simulation
 
 ### Instant Swap
 
@@ -13,7 +13,7 @@ The amount is estimated by dividing the order size by the time interval to get t
 ```tsx
 // Define Constants
 const tifPeriod = 300; // if execution period is 5 minutes (≈300 seconds)
-const crankInterval = 5; // crank runs every 5 seconds
+const crankInterval = 5; // crank interval
 const tokenA = 10000; // 10000 Token A to be swapped to Token B
 const epochs = tifPeriod / crankInterval; // total amount of epochs of trade
 
@@ -25,4 +25,9 @@ const tokenB = fetchFromJupiter(tifAccountedTokenASize); // fetch exchange rate
 const tifAccountedTokenB = tokenB * epochs; // total token B out amount
 ```
 
-The TWAP order receive amount is a metric to estimate reduction of price impact as the execution period increases. However, lack of arbitrage activities, especially for stable pairs (USDCet, USDTet) could result in price impact. It is important to select a conservative execution period for larger size.
+The TWAP order receive amount is a metric to estimate reduction of price impact as the execution period increases. However, lack of arbitrage activities could result in price impact. It is important to select a conservative execution period for larger size.
+
+Following is the assumptions fo the simulations
+
+* Price remains constant throughout the trade
+* No counterparty settlement (all orders via [Jupiter](https://jup.ag))

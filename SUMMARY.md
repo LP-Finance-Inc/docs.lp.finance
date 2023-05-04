@@ -16,9 +16,9 @@
 ## TWAMM
 
 * [Time-weighted Average Market Maker](twamm/time-weighted-average-market-maker.md)
-* [Supported Pairs](twamm/supported-pairs.md)
 * [Quick Steps](twamm/quick-steps.md)
-* [Order Receive Amount Calculation](twamm/order-receive-amount-calculation.md)
+* [Supported Pairs](twamm/supported-pairs.md)
+* [Order Receive Amount Simulation](twamm/order-receive-amount-simulation.md)
 
 ## LPFi Staking
 
