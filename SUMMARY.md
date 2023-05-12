@@ -19,6 +19,7 @@
 * [Quick Steps](twamm/quick-steps.md)
 * [Supported Pairs](twamm/supported-pairs.md)
 * [Order Receive Amount Simulation](twamm/order-receive-amount-simulation.md)
+* [Integrate TWAMM](twamm/integrate-twamm.md)
 
 ## LPFi Staking
 
