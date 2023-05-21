@@ -16,4 +16,4 @@ TODO
 
 * **General Frontend Integration:** Integrate TWAMM to your frontend to earn 100% of generated fees
 * **DAOs:** Process large swaps without worrying about slippage
-* **Protocols / Communities:** Register your token on TWAMM and enable trades of any size regardless to liquidity.
+* **Protocols / Communities:** Register your token on TWAMM and enable TWAP trading

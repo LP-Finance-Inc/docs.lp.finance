@@ -1,6 +1,6 @@
 # Programs
 
-zSOL Issuance Program (lpfinance-program)
+### zSOL Issuance Program (lpfinance-program)
 
 {% embed url="https://solana.fm/address/8Hka1oR6uoNLqjpYXXDKpF6NwiYidD6L3ncQdfu11aWw?cluster=mainnet-solanafmbeta" %}
 
