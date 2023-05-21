@@ -1,6 +1,6 @@
 # TWAMM Oracle
 
-TWAMM utilizes oracle price to internally match orders and check the price delta when settling on Jupiter Aggregator.
+TWAMM utilizes oracle price to internally match orders and check the price delta when settling on Jupiter Aggregator. Oracle source for token pairs can be check on "Stats" page.
 
 ### Pyth Oracle Pairs
 
