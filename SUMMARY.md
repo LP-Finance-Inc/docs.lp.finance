@@ -21,6 +21,7 @@
 * [Order Receive Amount Simulation](twamm/order-receive-amount-simulation.md)
 * [TWAMM Oracle](twamm/twamm-oracle.md)
 * [Integrate TWAMM](twamm/integrate-twamm.md)
+* [FAQ](twamm/faq.md)
 
 ## LPFi Staking
 

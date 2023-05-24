@@ -6,7 +6,7 @@
 
 ### TWAMM
 
-{% embed url="https://twap.lp.finance" %}
+{% embed url="https://twap.so" %}
 
 ### LPFi Staking
 
