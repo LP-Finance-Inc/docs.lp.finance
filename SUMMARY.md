@@ -23,6 +23,11 @@
 * [Integrate TWAMM](twamm/integrate-twamm.md)
 * [FAQ](twamm/faq.md)
 
+## TWAMM as a Service
+
+* [Token Listing](twamm-as-a-service/token-listing.md)
+* [Custom Orders & OTC](twamm-as-a-service/custom-orders-and-otc.md)
+
 ## LPFi Staking
 
 * [LPFi Staking](lpfi-staking/lpfi-staking.md)
