@@ -22,6 +22,7 @@
 * [TWAMM Oracle](twamm/twamm-oracle.md)
 * [Integrate TWAMM](twamm/integrate-twamm.md)
 * [FAQ](twamm/faq.md)
+* [Technical Constraints](twamm/technical-constraints.md)
 
 ## TWAMM as a Service
 
