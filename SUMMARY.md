@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LP Finance Protocol](README.md)
+* [LP Finance Documentation](README.md)
   * [Quick User Guide](lp-finance-protocol/quick-user-guide.md)
   * [View Protocol Data](lp-finance-protocol/view-protocol-data.md)
   * [User FAQ](lp-finance-protocol/user-faq.md)
