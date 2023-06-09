@@ -6,6 +6,10 @@ Custom orders and OTC remains permissionless / non-custodial, therefore there ar
 
 Here are services that we offer for custom orders and OTC.
 
+### Consulting
+
+Prior to creating a custom order, LP Finance Labs work together with the client to set strategies based on the goal / requirements.
+
 ### **Custom Fees**
 
 For larger trades (generally $500k <), LP Finance might offer custom fee options depending on the token pair and market conditions.
